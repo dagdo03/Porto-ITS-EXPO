@@ -1,66 +1,35 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![image](https://user-images.githubusercontent.com/95538168/210136539-5fd9c631-9cfe-4b72-9c86-0f4a58e37d01.png)
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Fitur pada web yang saya buat :
 
-## About Laravel
+1. Menambah data dengan beberapa keamanan dimana ketika input kita tidak dapat menginputkan NRP yang sama agar tidak terjadi duplikat identitas dan kesalahan input
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![image](https://user-images.githubusercontent.com/95538168/210136652-8e2dcaaa-8239-4256-97e6-cb74e2a28dc8.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+2. Membaca data yang ada pada database serta fitur search untuk mencari identitas tertentu
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![image](https://user-images.githubusercontent.com/95538168/210136701-fb364116-9d93-40d3-b010-b2a29a88ae41.png)
 
-## Learning Laravel
+3. Memperbarui database jika terjadi kesalahan input nama atau yang lainnya
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![image](https://user-images.githubusercontent.com/95538168/210136712-f5b21d49-733f-43cb-bbd0-1ce7f2ca4469.png)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+4. Menghapus data jika ada data yang tidak diperlukan serta tombol konfirmasi agar tidak terjadi kesalahan penghapusan data
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![image](https://user-images.githubusercontent.com/95538168/210136724-3edafe3e-867a-492d-9ba7-80d5acc81e24.png)
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+Pada portofolio saya kali ini memiliki fitur untuk create, read, update, dan delete database. Saya membuat portofolio tersebut dikarenakan saya ingin menjadi backend pada web development ITS Expo, dimana jobdescnya yaitu :
+1. Bertanggungjawab atas seluruh hal yang berkaitan dengan Website ITS
+EXPO 2023
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+2. Berkoordinasi dengan tim kreatif untuk menghasilkan konten-konten
+website
 
-## Contributing
+3. Mewadahi divisi/subdivisi lain untuk melakukan publikasi di website ITS
+EXPO 2023
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+4. Bertanggungjawab atas arsitektur dan keamanan website ITS EXPO 2023
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Pada portofolio yang saya buat, saya menggunakan framework yaitu laravel 9 untuk mengolah databasenya beserta bootstrap 5 untuk mempercantik tampilan web tersebut. Dalam pembuatan web tersebut saya mempelajari banyak hal pada framework laravel 9 serta bootstrap 5, seperti saya dapat tau penggunaan route, autentikasi, login, register, paginasi, dan masi banyak hal lainnya yang tidak dapat saya sebutkan semuanya. 
